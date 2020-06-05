@@ -1,5 +1,11 @@
 <?xml version="1.0"?>
 <config>
+    <tabs>
+		<netalico_base translate="label" module="netalico_csp">
+            <label>Netalico</label>
+            <sort_order>1000</sort_order>
+        </netalico_base>
+    </tabs>
     <sections>
         <csp translate="label" module="netalico_csp">
             <label>Content Security Policy (CSP)</label>
