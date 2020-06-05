@@ -85,7 +85,6 @@
                             <show_in_store>0</show_in_store>
                         </checkout_url>
                     </fields>
-
                 </config>
             </groups>
         </csp>
